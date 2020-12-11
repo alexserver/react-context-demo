@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Docs (articles)
+
+- [React Context API with Class components](https://www.toptal.com/react/react-context-api)
+- [Updating Context from a Nested Component](https://reactjs.org/docs/context.html#updating-context-from-a-nested-component)
+- [Updating Context from a Nexted Component, Stackoverflow](https://stackoverflow.com/questions/41030361/how-to-update-react-context-from-inside-a-child-component)
+- [Demo code for stackoverflow answer](https://codesandbox.io/s/react-context-4c174?file=/src/language-context.js) 
