@@ -1,8 +1,11 @@
 import React from 'react';
 
-// this is the equivalent to the createStore method of Redux
-// https://redux.js.org/api/createstore
+const AppContext = React.createContext({
+  cars: {},
+  incrementPrice: () => {},
+  decrementPrice: () => {}
+});
 
-const AppContext = React.createContext();
+export const AppProvider = AppContext.Provider;
 
-export default AppContext;
+export default AppContext
